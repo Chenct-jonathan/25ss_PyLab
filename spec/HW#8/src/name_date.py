@@ -13,7 +13,6 @@ def check_date(filePATH):
     with open(filePATH, "r", encoding="utf-8") as f:
         inputLIST = json.load(f)
         print(inputLIST)
-        
     
     return resultDICT
 

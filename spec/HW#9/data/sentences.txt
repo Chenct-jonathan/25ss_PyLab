@@ -1,0 +1,7 @@
+sentences = [
+    "I love learning Python",
+    "Python is great for NLP",
+    "Lists are very useful in Python",
+    "Natural Language Processing is fun",
+    "Learning by doing is effective"
+]
